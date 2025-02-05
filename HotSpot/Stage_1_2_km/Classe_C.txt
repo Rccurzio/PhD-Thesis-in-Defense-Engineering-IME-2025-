@@ -1,0 +1,79 @@
+HotSpot  Version 3.1.2 General Plume
+set 7, 2024 09:38:59
+
+Source Material            : Cs-137  D    30.0y
+Material-at-Risk   (MAR)   : 4,2950E+15 Bq
+Damage Ratio        (DR)   : 1,00
+Airborne Fraction  (ARF)   : 1,000
+Respirable Fraction (RF)   : 1,000
+Leakpath Factor    (LPF)   : 1,000
+Respirable Source Term     : 4,30E+15 Bq
+Non-respirable Source Term : 0,00E+00 Bq
+Effective Release Height   : 8,00 m
+Wind Speed (h=10 m)        : 1,00 m/s
+Wind Speed (h=H-eff)       : 0,98 m/s
+Stability Class            : C
+Respirable Dep. Vel.       : 0,30 cm/s
+Non-respirable Dep. Vel.   : 0,00E+00 cm/s
+Receptor Height            : 1,5 m
+Inversion Layer Height     : None
+Sample Time                : 30,000 min
+Breathing Rate             : 3,33E-04 m3/sec
+Distance Coordinates       : All distances are on the Plume Centerline
+
+Maximum Dose Distance      : 0,066 km   
+Maximum TEDE               : 28 Sv
+Inner  Contour Dose        : 0,700 Sv
+Middle Contour Dose        : 0,100 Sv
+Outer  Contour Dose        : 0,050 Sv
+Exceeds Inner  Dose Out To : 0,74 km   
+Exceeds Middle Dose Out To : 2,1 km   
+Exceeds Outer  Dose Out To : 3,1 km   
+
+FGR-11 Dose Conversion Data - Total Effective Dose Equivalent (TEDE)
+
+                             RESPIRABLE
+ DISTANCE      T E D E     TIME-INTEGRATED   GROUND SURFACE    GROUND SHINE    ARRIVAL
+                          AIR CONCENTRATION    DEPOSITION       DOSE RATE       TIME
+    km          (Sv)         (Bq-sec)/m3        (kBq/m2)          (Sv/hr)     (hour:min)
+ _______________________________________________________________________________________
+ Text11
+   0,010        8,0E-12         2,8E+00          6,7E-13          0,0E+00       <00:01
+ Text12
+   0,020        1,2E-01         4,0E+10          3,4E+03          6,8E-06       <00:01
+ Text13
+   0,030        5,2E+00         1,8E+12          1,6E+06          3,2E-03       <00:01
+ Text14
+   0,040        1,6E+01         5,5E+12          1,0E+07          2,1E-02       <00:01
+ Text15
+   0,050        2,4E+01         8,3E+12          2,0E+07          4,1E-02       <00:01
+ Text16
+   0,100        2,2E+01         7,7E+12          2,3E+07          4,6E-02        00:01
+ Text17
+   0,200        8,1E+00         2,8E+12          8,4E+06          1,7E-02        00:03
+ Text18
+   0,300        3,9E+00         1,3E+12          4,0E+06          8,1E-03        00:05
+ Text19
+   0,400        2,3E+00         7,8E+11          2,3E+06          4,7E-03        00:06
+ Text20
+   0,500        1,5E+00         5,1E+11          1,5E+06          3,1E-03        00:08
+ Text21
+   0,600        1,0E+00         3,6E+11          1,1E+06          2,1E-03        00:10
+ Text22
+   0,700        7,7E-01         2,7E+11          8,0E+05          1,6E-03        00:11
+ Text23
+   0,800        6,0E-01         2,1E+11          6,2E+05          1,2E-03        00:13
+ Text24
+   0,900        4,8E-01         1,7E+11          5,0E+05          9,9E-04        00:15
+ Text25
+   1,000        3,9E-01         1,4E+11          4,1E+05          8,1E-04        00:17
+ Text26
+   1,100        3,3E-01         1,1E+11          3,4E+05          6,8E-04        00:18
+ Text27
+   1,200        2,8E-01         9,6E+10          2,9E+05          5,7E-04        00:20
+ Text28
+   1,300        2,4E-01         8,2E+10          2,5E+05          4,9E-04        00:22
+ Text29
+   1,400        2,1E-01         7,2E+10          2,2E+05          4,3E-04        00:23
+ Text30
+   1,500        1,8E-01         6,3E+10          1,9E+05          3,8E-04        00:25
